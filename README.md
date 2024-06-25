@@ -50,4 +50,7 @@ gpt-4-vision-preview
 gpt-4o
 gpt-4o-2024-05-13
 <H2>Join our Intelligence Club</H2>
-Sign up  https://api.getapi.cc/login
+Sign up https://api.getapi.cc/login 
+View key: https://api.getapi.cc/token 
+Tutorial: https://getapi.cc/tutorial.html
+
